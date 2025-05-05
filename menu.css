@@ -38,3 +38,15 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+  adding
+  body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
